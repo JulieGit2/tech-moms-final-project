@@ -1,0 +1,13 @@
+h1 {color: chocolate; font-size: 65px; font-variant: small-caps;
+}
+h2 {color: chocolate; font-size: 40px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+header{ text-align: center;}
+.social-awareness { color:darkgreen; font-size: medium;}
+.self-management { color: dimgray; font-size: medium;}
+.relationship-management { color: dodgerblue; font-size: medium;}
+ a { display: block;text-align: center; width: 50%; color: black;}
+ a:hover {color: blue;}
+ a img {border:1px solid black; border-radius: 50%;margin-bottom: 20px;}
+ a:hover img {border-color: blue;}
+ a span {display: block; margin-bottom: 10px;}
+section {display: flex;flex-wrap: wrap;justify-content: center;max-width: 700px;margin: 0 auto;}
