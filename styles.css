@@ -1,19 +1,72 @@
-h1 {color: chocolate; font-size: 65px; font-variant: small-caps;
-}
-h2 {color: chocolate; font-size: 40px; font-variant: small-caps;
-}
-h3{font-size: 30px;}
-header{ text-align: center;}
-.social-awareness { color: black; font-size: medium;}
-.self-management { color: black; font-size: medium;}
-.relationship-management { color: black; font-size: medium;}
-.self-awareness { color: black; font-size: medium;}
- section a { display: block;text-align: center; width: 50%; color: black;}
- section a:hover {color: blue;}
- a img {border:1px solid black; border-radius: 50%;margin-bottom: 20px;}
- a:hover img {border-color: blue;}
- a span {display: block; margin-bottom: 10px;}
-section {display: flex;flex-wrap: wrap;justify-content: center;max-width: 7;} 
-img {height: 200px; width: 200px; object-fit: cover;}
-.puppies { object-position: 0 -40px;}
-.imgcontainer{display: flex; align-content: center;}
+h1, h2 {
+    color: chocolate;
+    font-size: 65px;
+    font-variant: small-caps;
+  }
+  
+  h3 {
+    font-size: 30px; font-variant: small-caps;
+  }
+  
+  header{
+     text-align: center;
+  }
+  
+  .social-awareness,
+  .self-management,
+  .relationship-management,
+  .self-awareness {
+    color: black; font-size: medium;
+  }
+  
+  section a {
+    display: block;
+    text-align: center;
+    width: 50%;
+    color: black;
+  }
+  
+  section a:hover {
+    color: blue;
+  }
+  
+  a img {
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  a:hover img {
+    border-color: blue;
+  }
+  
+  a span {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 7;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  .puppies {
+    object-position: 0 -40px;
+  }
+  
+  .imgcontainer{
+    display: flex;
+    align-content: center;
+  }
+  
+  
+  
+  
