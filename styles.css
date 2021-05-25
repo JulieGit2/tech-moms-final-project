@@ -8,11 +8,12 @@ header{ text-align: center;}
 .self-management { color: black; font-size: medium;}
 .relationship-management { color: black; font-size: medium;}
 .self-awareness { color: black; font-size: medium;}
- a { display: block;text-align: center; width: 50%; color: black;}
- a:hover {color: blue;}
+ section a { display: block;text-align: center; width: 50%; color: black;}
+ section a:hover {color: blue;}
  a img {border:1px solid black; border-radius: 50%;margin-bottom: 20px;}
  a:hover img {border-color: blue;}
  a span {display: block; margin-bottom: 10px;}
 section {display: flex;flex-wrap: wrap;justify-content: center;max-width: 7;} 
 img {height: 200px; width: 200px; object-fit: cover;}
 .puppies { object-position: 0 -40px;}
+.imgcontainer{display: flex; align-content: center;}
