@@ -5,7 +5,7 @@ h1, h2 {
   }
   
   h3 {
-    font-size: 30px; font-variant: small-caps;
+    font-size: 30px; font-variant-caps: titling-caps;
   }
   
   header{
@@ -16,7 +16,7 @@ h1, h2 {
   .self-management,
   .relationship-management,
   .self-awareness {
-    color: black; font-size: medium;
+    color: black; font-variant: small-caps;
   }
   
   section a {
